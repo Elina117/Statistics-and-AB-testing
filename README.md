@@ -1,5 +1,3 @@
-Here is the English translation:
-
 # Statistics and A/B Testing
 
 ## 📌 Project Description
